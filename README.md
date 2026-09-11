@@ -5,11 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-# nanboxing
-
-A float has millions of valid NaN bit patterns and almost nobody needs more than one. So JS engines stash pointers in the spare bits and call it NaN-boxing. Your entire object graph is addressed through numbers that are officially Not A Number.
-
-_category: clever_
+Mike Muuss named `ping` after the noise sonar makes. "Packet InterNet Groper" got reverse-engineered onto it later by someone who assumed it had to stand for something.
 
 
 ---
@@ -25,4 +21,4 @@ _category: clever_
 ---
 
 ### 🗓️ Last Update
-- 2026-09-11T17:42:03+00:00  
+- 2026-09-11T17:46:20+00:00  
