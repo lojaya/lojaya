@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Mike Muuss named `ping` after the noise sonar makes. "Packet InterNet Groper" got reverse-engineered onto it later by someone who assumed it had to stand for something.
+Nobody trusts a test that passes on the first run. Break the assertion on purpose and check that it actually fails. Every so often it doesn't, which means you've been shipping a test that was never running at all.
 
 
 ---
@@ -21,4 +21,4 @@ Mike Muuss named `ping` after the noise sonar makes. "Packet InterNet Groper" go
 ---
 
 ### 🗓️ Last Update
-- 2026-09-11T17:46:20+00:00  
+- 2026-09-11T17:53:31+00:00  
