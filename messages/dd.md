@@ -1,5 +1,1 @@
-# dd
-
 `dd`'s `if=` and `of=` syntax looks nothing like the rest of Unix, and that's because it's imitating IBM's JCL, where DD stood for Data Definition. It's a mainframe command in a Unix costume, and it's been shipping since 1974.
-
-_category: trivia_

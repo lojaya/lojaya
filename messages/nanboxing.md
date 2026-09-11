@@ -1,5 +1,1 @@
-# nanboxing
-
 A float has millions of valid NaN bit patterns and almost nobody needs more than one. So JS engines stash pointers in the spare bits and call it NaN-boxing. Your entire object graph is addressed through numbers that are officially Not A Number.
-
-_category: clever_

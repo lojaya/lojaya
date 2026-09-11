@@ -1,5 +1,1 @@
-# consent
-
 AT&T wasn't allowed to sell Unix. A 1956 antitrust consent decree confined them to the telephone business, so software couldn't be a product, which is the entire reason universities got the source for a nominal fee. Unix took over computing because of a court order.
-
-_category: trivia_

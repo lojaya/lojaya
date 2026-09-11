@@ -1,5 +1,1 @@
-# randu
-
 IBM shipped a random number generator called RANDU whose output, plotted in three dimensions, lands on exactly 15 planes. Marsaglia's paper about it is titled "Random numbers fall mainly in the planes." A decade of simulation results are sitting on those planes.
-
-_category: trivia_

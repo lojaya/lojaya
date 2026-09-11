@@ -1,5 +1,1 @@
-# duck
-
 The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
-
-_category: quirk_
