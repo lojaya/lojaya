@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+permissions: write-all
+
+jobs:
+  update:
+    name: update README
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+    - name: Update
+      run: |
+        git config --global user.name "$GITHUB_REPOSITORY_OWNER"
+        git config --global user.email `python message.py`
+        git add -A
+        git commit -m 'Update README.md with a random message'
+        git push
