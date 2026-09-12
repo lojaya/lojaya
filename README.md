@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Nobody trusts a test that passes on the first run. Break the assertion on purpose and check that it actually fails. Every so often it doesn't, which means you've been shipping a test that was never running at all.
+When a developer says two days, they mean two days of writing the code. The review, the migration, the staging deploy and the thing nobody put in the ticket are all apparently free.
 
 
 ---
@@ -21,4 +21,4 @@ Nobody trusts a test that passes on the first run. Break the assertion on purpos
 ---
 
 ### 🗓️ Last Update
-- 2026-09-11T17:53:31+00:00  
+- 2026-09-12T03:37:48+00:00  
