@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-When a developer says two days, they mean two days of writing the code. The review, the migration, the staging deploy and the thing nobody put in the ticket are all apparently free.
+One guard inside the shared function is a smaller diff than a guard in each of its nine callers, and it quietly fixes the eight bugs nobody has reported yet. Being lazy and being right point the same direction more often than you'd think.
 
 
 ---
@@ -21,4 +21,4 @@ When a developer says two days, they mean two days of writing the code. The revi
 ---
 
 ### 🗓️ Last Update
-- 2026-09-12T03:37:48+00:00  
+- 2026-09-13T03:44:37+00:00  
