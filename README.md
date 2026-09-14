@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-One guard inside the shared function is a smaller diff than a guard in each of its nine callers, and it quietly fixes the eight bugs nobody has reported yet. Being lazy and being right point the same direction more often than you'd think.
+Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
 
 
 ---
@@ -21,4 +21,4 @@ One guard inside the shared function is a smaller diff than a guard in each of i
 ---
 
 ### 🗓️ Last Update
-- 2026-09-13T03:44:37+00:00  
+- 2026-09-14T03:52:49+00:00  
