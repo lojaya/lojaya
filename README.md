@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
+`:x` does what `:wq` does, except it skips the write if nothing changed, so it won't bump the mtime and wake up your file watcher. Almost nobody uses it.
 
 
 ---
@@ -21,4 +21,4 @@ Grace Hopper's moth didn't give us the word. Edison was already calling faults "
 ---
 
 ### 🗓️ Last Update
-- 2026-09-14T03:52:49+00:00  
+- 2026-09-15T03:52:40+00:00  
