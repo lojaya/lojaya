@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`:x` does what `:wq` does, except it skips the write if nothing changed, so it won't bump the mtime and wake up your file watcher. Almost nobody uses it.
+Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-09-15T03:52:40+00:00  
+- 2026-09-16T03:50:02+00:00  
