@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
+AT&T wasn't allowed to sell Unix. A 1956 antitrust consent decree confined them to the telephone business, so software couldn't be a product, which is the entire reason universities got the source for a nominal fee. Unix took over computing because of a court order.
 
 
 ---
@@ -21,4 +21,4 @@ Dijkstra's original term for deadlock was "deadly embrace". It's a better name a
 ---
 
 ### 🗓️ Last Update
-- 2026-09-16T03:50:02+00:00  
+- 2026-09-17T03:55:19+00:00  
