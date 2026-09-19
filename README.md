@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`// do not remove` translates to: I don't know why this is here either, but the last person who deleted it had a bad week.
+`.gitignore` is the most frequently committed file about not committing things.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-09-18T03:42:11+00:00  
+- 2026-09-19T03:39:01+00:00  
