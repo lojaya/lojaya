@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-One guard inside the shared function is a smaller diff than a guard in each of its nine callers, and it quietly fixes the eight bugs nobody has reported yet. Being lazy and being right point the same direction more often than you'd think.
+IBM shipped a random number generator called RANDU whose output, plotted in three dimensions, lands on exactly 15 planes. Marsaglia's paper about it is titled "Random numbers fall mainly in the planes." A decade of simulation results are sitting on those planes.
 
 
 ---
@@ -21,4 +21,4 @@ One guard inside the shared function is a smaller diff than a guard in each of i
 ---
 
 ### 🗓️ Last Update
-- 2026-09-22T03:49:12+00:00  
+- 2026-09-23T03:47:33+00:00  
