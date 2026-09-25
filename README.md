@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
+Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
 
 
 ---
@@ -21,4 +21,4 @@ The rubber duck works because speech is linear and thinking isn't. In your head 
 ---
 
 ### 🗓️ Last Update
-- 2026-09-24T03:39:19+00:00  
+- 2026-09-25T03:55:58+00:00  
