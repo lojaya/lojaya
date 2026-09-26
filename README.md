@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
+Put a long enough interpreter path in a shebang and the script just breaks, with no useful error. The kernel reads that first line into a fixed-size buffer (128 bytes for most of Linux's history) and silently truncates it. A script explaining how to run itself, cut off mid-word.
 
 
 ---
@@ -21,4 +21,4 @@ Dijkstra's original term for deadlock was "deadly embrace". It's a better name a
 ---
 
 ### 🗓️ Last Update
-- 2026-09-25T03:55:58+00:00  
+- 2026-09-26T04:00:20+00:00  
