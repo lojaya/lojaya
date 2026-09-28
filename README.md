@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`0.1 + 0.2` gives you `0.30000000000000004`, and that number is famous enough to own a domain: 0.30000000000000004.com
+Every codebase has one file nobody will touch. It's called `utils.js`. The person who wrote it left three years ago, and git blame points at an account that's been deleted.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-09-27T04:13:11+00:00  
+- 2026-09-28T04:14:32+00:00  
