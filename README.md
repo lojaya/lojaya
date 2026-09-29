@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Every codebase has one file nobody will touch. It's called `utils.js`. The person who wrote it left three years ago, and git blame points at an account that's been deleted.
+When a developer says two days, they mean two days of writing the code. The review, the migration, the staging deploy and the thing nobody put in the ticket are all apparently free.
 
 
 ---
@@ -21,4 +21,4 @@ Every codebase has one file nobody will touch. It's called `utils.js`. The perso
 ---
 
 ### 🗓️ Last Update
-- 2026-09-28T04:14:32+00:00  
+- 2026-09-29T04:46:08+00:00  
