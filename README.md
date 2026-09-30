@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-When a developer says two days, they mean two days of writing the code. The review, the migration, the staging deploy and the thing nobody put in the ticket are all apparently free.
+Kubernetes exists so you never have to think about an individual server again. You now maintain a fleet of servers whose only job is running the thing that manages your servers.
 
 
 ---
@@ -21,4 +21,4 @@ When a developer says two days, they mean two days of writing the code. The revi
 ---
 
 ### 🗓️ Last Update
-- 2026-09-29T04:46:08+00:00  
+- 2026-09-30T04:31:32+00:00  
