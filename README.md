@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`.gitignore` is the most frequently committed file about not committing things.
+DevOps was supposed to delete the handoff between the people who write the code and the people who run it. It is now a department. You open a ticket with them.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-01T04:43:10+00:00  
+- 2026-10-02T04:34:34+00:00  
