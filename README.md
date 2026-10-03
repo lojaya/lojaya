@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-DevOps was supposed to delete the handoff between the people who write the code and the people who run it. It is now a department. You open a ticket with them.
+Nobody trusts a test that passes on the first run. Break the assertion on purpose and check that it actually fails. Every so often it doesn't, which means you've been shipping a test that was never running at all.
 
 
 ---
@@ -21,4 +21,4 @@ DevOps was supposed to delete the handoff between the people who write the code 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-02T04:34:34+00:00  
+- 2026-10-03T04:17:09+00:00  
