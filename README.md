@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Nobody trusts a test that passes on the first run. Break the assertion on purpose and check that it actually fails. Every so often it doesn't, which means you've been shipping a test that was never running at all.
+Nothing demonic about it. The people at MIT's Project MAC named background processes after Maxwell's demon, the thought-experiment creature that quietly sorts molecules all day without anyone asking it to.
 
 
 ---
@@ -21,4 +21,4 @@ Nobody trusts a test that passes on the first run. Break the assertion on purpos
 ---
 
 ### 🗓️ Last Update
-- 2026-10-03T04:17:09+00:00  
+- 2026-10-04T04:48:18+00:00  
