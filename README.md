@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Nothing demonic about it. The people at MIT's Project MAC named background processes after Maxwell's demon, the thought-experiment creature that quietly sorts molecules all day without anyone asking it to.
+Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
 
 
 ---
@@ -21,4 +21,4 @@ Nothing demonic about it. The people at MIT's Project MAC named background proce
 ---
 
 ### 🗓️ Last Update
-- 2026-10-04T04:48:18+00:00  
+- 2026-10-05T04:36:27+00:00  
