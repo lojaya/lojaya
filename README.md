@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
+`--force` is how people lose a week of someone else's work. `--force-with-lease` checks that the remote hasn't moved since you last looked, and costs eighteen extra characters to type. Guess which one is in everybody's shell history.
 
 
 ---
@@ -21,4 +21,4 @@ Grace Hopper's moth didn't give us the word. Edison was already calling faults "
 ---
 
 ### 🗓️ Last Update
-- 2026-10-05T04:36:27+00:00  
+- 2026-10-06T05:22:44+00:00  
