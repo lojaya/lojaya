@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`--force` is how people lose a week of someone else's work. `--force-with-lease` checks that the remote hasn't moved since you last looked, and costs eighteen extra characters to type. Guess which one is in everybody's shell history.
+`:x` does what `:wq` does, except it skips the write if nothing changed, so it won't bump the mtime and wake up your file watcher. Almost nobody uses it.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-06T05:22:44+00:00  
+- 2026-10-07T04:51:25+00:00  
