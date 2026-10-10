@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Variable names are stratigraphy. If you've reached `finalData_v2_USE_THIS`, keep digging. `data2` is down there somewhere.
+The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
 
 
 ---
@@ -21,4 +21,4 @@ Variable names are stratigraphy. If you've reached `finalData_v2_USE_THIS`, keep
 ---
 
 ### 🗓️ Last Update
-- 2026-10-09T05:04:42+00:00  
+- 2026-10-10T04:50:26+00:00  
