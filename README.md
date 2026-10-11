@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
+`// do not remove` translates to: I don't know why this is here either, but the last person who deleted it had a bad week.
 
 
 ---
@@ -21,4 +21,4 @@ The rubber duck works because speech is linear and thinking isn't. In your head 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-10T04:50:26+00:00  
+- 2026-10-11T04:36:35+00:00  
