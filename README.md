@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`dd`'s `if=` and `of=` syntax looks nothing like the rest of Unix, and that's because it's imitating IBM's JCL, where DD stood for Data Definition. It's a mainframe command in a Unix costume, and it's been shipping since 1974.
+Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-12T04:51:56+00:00  
+- 2026-10-13T05:54:11+00:00  
