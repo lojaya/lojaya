@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`// do not remove` translates to: I don't know why this is here either, but the last person who deleted it had a bad week.
+Ada Lovelace's Note G, usually called the first published computer program, has an error in its table. The first program and the first bug shipped in the same document.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-15T03:39:32+00:00  
+- 2026-10-16T03:35:29+00:00  
