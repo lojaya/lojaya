@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Ada Lovelace's Note G, usually called the first published computer program, has an error in its table. The first program and the first bug shipped in the same document.
+`0.1 + 0.2` gives you `0.30000000000000004`, and that number is famous enough to own a domain: 0.30000000000000004.com
 
 
 ---
@@ -21,4 +21,4 @@ Ada Lovelace's Note G, usually called the first published computer program, has 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-16T03:35:29+00:00  
+- 2026-10-17T03:25:26+00:00  
