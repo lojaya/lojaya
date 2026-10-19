@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`.gitignore` is the most frequently committed file about not committing things.
+`dd`'s `if=` and `of=` syntax looks nothing like the rest of Unix, and that's because it's imitating IBM's JCL, where DD stood for Data Definition. It's a mainframe command in a Unix costume, and it's been shipping since 1974.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-18T03:31:51+00:00  
+- 2026-10-19T03:42:23+00:00  
