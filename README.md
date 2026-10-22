@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
+Variable names are stratigraphy. If you've reached `finalData_v2_USE_THIS`, keep digging. `data2` is down there somewhere.
 
 
 ---
@@ -21,4 +21,4 @@ Dijkstra's original term for deadlock was "deadly embrace". It's a better name a
 ---
 
 ### 🗓️ Last Update
-- 2026-10-21T03:43:47+00:00  
+- 2026-10-22T03:43:25+00:00  
