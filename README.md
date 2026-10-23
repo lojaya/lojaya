@@ -5,7 +5,13 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Variable names are stratigraphy. If you've reached `finalData_v2_USE_THIS`, keep digging. `data2` is down there somewhere.
+Nobody reaches for the debugger first. The ladder is always the same:
+
+```js
+log("here")
+log("here2")
+log("WHY")
+```
 
 
 ---
@@ -21,4 +27,4 @@ Variable names are stratigraphy. If you've reached `finalData_v2_USE_THIS`, keep
 ---
 
 ### 🗓️ Last Update
-- 2026-10-22T03:43:25+00:00  
+- 2026-10-23T03:47:40+00:00  
