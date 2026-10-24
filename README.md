@@ -5,13 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Nobody reaches for the debugger first. The ladder is always the same:
-
-```js
-log("here")
-log("here2")
-log("WHY")
-```
+Ada Lovelace's Note G, usually called the first published computer program, has an error in its table. The first program and the first bug shipped in the same document.
 
 
 ---
@@ -27,4 +21,4 @@ log("WHY")
 ---
 
 ### 🗓️ Last Update
-- 2026-10-23T03:47:40+00:00  
+- 2026-10-24T03:42:11+00:00  
