@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Ada Lovelace's Note G, usually called the first published computer program, has an error in its table. The first program and the first bug shipped in the same document.
+`:x` does what `:wq` does, except it skips the write if nothing changed, so it won't bump the mtime and wake up your file watcher. Almost nobody uses it.
 
 
 ---
@@ -21,4 +21,4 @@ Ada Lovelace's Note G, usually called the first published computer program, has 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-24T03:42:11+00:00  
+- 2026-10-25T03:40:16+00:00  
