@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`:x` does what `:wq` does, except it skips the write if nothing changed, so it won't bump the mtime and wake up your file watcher. Almost nobody uses it.
+AT&T wasn't allowed to sell Unix. A 1956 antitrust consent decree confined them to the telephone business, so software couldn't be a product, which is the entire reason universities got the source for a nominal fee. Unix took over computing because of a court order.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-25T03:40:16+00:00  
+- 2026-10-26T03:43:21+00:00  
