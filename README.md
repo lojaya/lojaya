@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-AT&T wasn't allowed to sell Unix. A 1956 antitrust consent decree confined them to the telephone business, so software couldn't be a product, which is the entire reason universities got the source for a nominal fee. Unix took over computing because of a court order.
+`NaN != NaN` wasn't an oversight. Kahan put it in IEEE 754 deliberately: before `isnan()` existed, comparing a value against itself was the cheapest NaN check available. One instruction, no library.
 
 
 ---
@@ -21,4 +21,4 @@ AT&T wasn't allowed to sell Unix. A 1956 antitrust consent decree confined them 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-26T03:43:21+00:00  
+- 2026-10-27T04:06:49+00:00  
