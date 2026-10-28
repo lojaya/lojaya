@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`NaN != NaN` wasn't an oversight. Kahan put it in IEEE 754 deliberately: before `isnan()` existed, comparing a value against itself was the cheapest NaN check available. One instruction, no library.
+Kubernetes exists so you never have to think about an individual server again. You now maintain a fleet of servers whose only job is running the thing that manages your servers.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-10-27T04:06:49+00:00  
+- 2026-10-28T04:34:16+00:00  
