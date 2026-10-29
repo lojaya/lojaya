@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Kubernetes exists so you never have to think about an individual server again. You now maintain a fleet of servers whose only job is running the thing that manages your servers.
+Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
 
 
 ---
@@ -21,4 +21,4 @@ Kubernetes exists so you never have to think about an individual server again. Y
 ---
 
 ### 🗓️ Last Update
-- 2026-10-28T04:34:16+00:00  
+- 2026-10-29T04:49:22+00:00  
