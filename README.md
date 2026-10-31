@@ -5,7 +5,13 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-The first Unix epoch started on 1 January 1971 and ticked sixty times a second, which gave it roughly two and a half years before it overflowed. They moved it back to 1970 and slowed it to one tick per second. The next wall is 03:14:07 UTC on 19 January 2038.
+Nobody reaches for the debugger first. The ladder is always the same:
+
+```js
+log("here")
+log("here2")
+log("WHY")
+```
 
 
 ---
@@ -21,4 +27,4 @@ The first Unix epoch started on 1 January 1971 and ticked sixty times a second, 
 ---
 
 ### 🗓️ Last Update
-- 2026-10-30T04:48:47+00:00  
+- 2026-10-31T04:33:43+00:00  
