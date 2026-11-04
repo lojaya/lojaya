@@ -5,7 +5,11 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
+`4b825dc642cb6eb9a060e54bf8d69288fbee4904` is the SHA-1 of the empty tree. It exists in every git repo ever created, because it's the hash of nothing. Useful when you want a diff against an empty repository:
+
+```bash
+git diff 4b825dc642cb6eb9a060e54bf8d69288fbee4904 HEAD --stat
+```
 
 
 ---
@@ -21,4 +25,4 @@ Grace Hopper's moth didn't give us the word. Edison was already calling faults "
 ---
 
 ### 🗓️ Last Update
-- 2026-11-03T05:43:53+00:00  
+- 2026-11-04T05:16:44+00:00  
