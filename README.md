@@ -5,7 +5,30 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
+[The Hyper Text Coffee Pot Control Protocol](<https://datatracker.ietf.org/doc/html/rfc7168>)!
+```http
+BREW coffee HTTP/1.1
+Host: www.example.re
+Content-Type: message/coffeepot
+Content-Length: 5
+
+start
+```
+
+```http
+HTTP/1.1 418 I’m a teapot
+Content-Type: text/html
+Content-Length: 146
+
+<html>
+  <head>
+    <title>Beverage not supported</title>
+  </head>
+  <body>
+   <p>I’m a teapot and I don’t support coffee.</p>
+  </body>
+</html>
+```
 
 
 ---
@@ -21,4 +44,4 @@ The rubber duck works because speech is linear and thinking isn't. In your head 
 ---
 
 ### 🗓️ Last Update
-- 2026-11-05T05:37:43+00:00  
+- 2026-11-06T05:35:07+00:00  
