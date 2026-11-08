@@ -5,30 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-[The Hyper Text Coffee Pot Control Protocol](<https://datatracker.ietf.org/doc/html/rfc7168>)!
-```http
-BREW coffee HTTP/1.1
-Host: www.example.re
-Content-Type: message/coffeepot
-Content-Length: 5
-
-start
-```
-
-```http
-HTTP/1.1 418 I’m a teapot
-Content-Type: text/html
-Content-Length: 146
-
-<html>
-  <head>
-    <title>Beverage not supported</title>
-  </head>
-  <body>
-   <p>I’m a teapot and I don’t support coffee.</p>
-  </body>
-</html>
-```
+`mkdir` used to be a setuid-root binary. Creating a directory meant a `mknod` plus two `link` calls, none of it atomic and all of it root-only, so an entire separate program existed to fake a syscall that didn't exist yet.
 
 
 ---
@@ -44,4 +21,4 @@ Content-Length: 146
 ---
 
 ### 🗓️ Last Update
-- 2026-11-07T05:03:08+00:00  
+- 2026-11-08T04:57:38+00:00  
