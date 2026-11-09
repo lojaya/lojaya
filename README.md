@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`mkdir` used to be a setuid-root binary. Creating a directory meant a `mknod` plus two `link` calls, none of it atomic and all of it root-only, so an entire separate program existed to fake a syscall that didn't exist yet.
+Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-11-08T04:57:38+00:00  
+- 2026-11-09T05:06:30+00:00  
