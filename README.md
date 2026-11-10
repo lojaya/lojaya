@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
+`// do not remove` translates to: I don't know why this is here either, but the last person who deleted it had a bad week.
 
 
 ---
@@ -21,4 +21,4 @@ Grace Hopper's moth didn't give us the word. Edison was already calling faults "
 ---
 
 ### 🗓️ Last Update
-- 2026-11-09T05:06:30+00:00  
+- 2026-11-10T06:22:45+00:00  
