@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`dd`'s `if=` and `of=` syntax looks nothing like the rest of Unix, and that's because it's imitating IBM's JCL, where DD stood for Data Definition. It's a mainframe command in a Unix costume, and it's been shipping since 1974.
+A float has millions of valid NaN bit patterns and almost nobody needs more than one. So JS engines stash pointers in the spare bits and call it NaN-boxing. Your entire object graph is addressed through numbers that are officially Not A Number.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-11-12T06:12:49+00:00  
+- 2026-11-13T05:33:47+00:00  
