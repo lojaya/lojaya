@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-A float has millions of valid NaN bit patterns and almost nobody needs more than one. So JS engines stash pointers in the spare bits and call it NaN-boxing. Your entire object graph is addressed through numbers that are officially Not A Number.
+The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
 
 
 ---
@@ -21,4 +21,4 @@ A float has millions of valid NaN bit patterns and almost nobody needs more than
 ---
 
 ### 🗓️ Last Update
-- 2026-11-13T05:33:47+00:00  
+- 2026-11-14T05:24:46+00:00  
