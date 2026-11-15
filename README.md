@@ -5,7 +5,11 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-The rubber duck works because speech is linear and thinking isn't. In your head you skip right over the step you got wrong. Out loud you have to say it, and that's usually where you stop mid-sentence.
+`4b825dc642cb6eb9a060e54bf8d69288fbee4904` is the SHA-1 of the empty tree. It exists in every git repo ever created, because it's the hash of nothing. Useful when you want a diff against an empty repository:
+
+```bash
+git diff 4b825dc642cb6eb9a060e54bf8d69288fbee4904 HEAD --stat
+```
 
 
 ---
@@ -21,4 +25,4 @@ The rubber duck works because speech is linear and thinking isn't. In your head 
 ---
 
 ### 🗓️ Last Update
-- 2026-11-14T05:24:46+00:00  
+- 2026-11-15T05:21:25+00:00  
