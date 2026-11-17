@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-A float has millions of valid NaN bit patterns and almost nobody needs more than one. So JS engines stash pointers in the spare bits and call it NaN-boxing. Your entire object graph is addressed through numbers that are officially Not A Number.
+Every codebase has one file nobody will touch. It's called `utils.js`. The person who wrote it left three years ago, and git blame points at an account that's been deleted.
 
 
 ---
@@ -21,4 +21,4 @@ A float has millions of valid NaN bit patterns and almost nobody needs more than
 ---
 
 ### 🗓️ Last Update
-- 2026-11-16T05:19:45+00:00  
+- 2026-11-17T06:59:19+00:00  
