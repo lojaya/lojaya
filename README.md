@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Every codebase has one file nobody will touch. It's called `utils.js`. The person who wrote it left three years ago, and git blame points at an account that's been deleted.
+`NaN != NaN` wasn't an oversight. Kahan put it in IEEE 754 deliberately: before `isnan()` existed, comparing a value against itself was the cheapest NaN check available. One instruction, no library.
 
 
 ---
@@ -21,4 +21,4 @@ Every codebase has one file nobody will touch. It's called `utils.js`. The perso
 ---
 
 ### 🗓️ Last Update
-- 2026-11-17T06:59:19+00:00  
+- 2026-11-18T06:22:50+00:00  
