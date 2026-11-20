@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Every codebase has one file nobody will touch. It's called `utils.js`. The person who wrote it left three years ago, and git blame points at an account that's been deleted.
+`dd`'s `if=` and `of=` syntax looks nothing like the rest of Unix, and that's because it's imitating IBM's JCL, where DD stood for Data Definition. It's a mainframe command in a Unix costume, and it's been shipping since 1974.
 
 
 ---
@@ -21,4 +21,4 @@ Every codebase has one file nobody will touch. It's called `utils.js`. The perso
 ---
 
 ### 🗓️ Last Update
-- 2026-11-19T06:24:42+00:00  
+- 2026-11-20T06:10:10+00:00  
