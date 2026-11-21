@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-11-20T06:10:10+00:00  
+- 2026-11-21T06:00:21+00:00  
