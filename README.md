@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`mkdir` used to be a setuid-root binary. Creating a directory meant a `mknod` plus two `link` calls, none of it atomic and all of it root-only, so an entire separate program existed to fake a syscall that didn't exist yet.
+`.gitignore` is the most frequently committed file about not committing things.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-11-22T05:37:03+00:00  
+- 2026-11-23T06:18:47+00:00  
