@@ -5,7 +5,30 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Grace Hopper's moth didn't give us the word. Edison was already calling faults "bugs" in his letters in the 1870s. The joke is right there in the logbook: "First actual case of bug being found." Actual. They'd been saying it for decades.
+[The Hyper Text Coffee Pot Control Protocol](<https://datatracker.ietf.org/doc/html/rfc7168>)!
+```http
+BREW coffee HTTP/1.1
+Host: www.example.re
+Content-Type: message/coffeepot
+Content-Length: 5
+
+start
+```
+
+```http
+HTTP/1.1 418 I’m a teapot
+Content-Type: text/html
+Content-Length: 146
+
+<html>
+  <head>
+    <title>Beverage not supported</title>
+  </head>
+  <body>
+   <p>I’m a teapot and I don’t support coffee.</p>
+  </body>
+</html>
+```
 
 
 ---
@@ -21,4 +44,4 @@ Grace Hopper's moth didn't give us the word. Edison was already calling faults "
 ---
 
 ### 🗓️ Last Update
-- 2026-11-24T08:52:58+00:00  
+- 2026-11-25T07:29:51+00:00  
