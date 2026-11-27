@@ -5,7 +5,7 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-`mkdir` used to be a setuid-root binary. Creating a directory meant a `mknod` plus two `link` calls, none of it atomic and all of it root-only, so an entire separate program existed to fake a syscall that didn't exist yet.
+Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
 
 
 ---
@@ -21,4 +21,4 @@ I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iks
 ---
 
 ### 🗓️ Last Update
-- 2026-11-26T07:18:04+00:00  
+- 2026-11-27T07:14:07+00:00  
