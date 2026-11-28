@@ -5,7 +5,13 @@ The name is Iksandi
 I write stuff about `investment` and `coding` on my blog **[Iksandi](https://iksandi.com)** 
 
 ### 📮 Message of the Day
-Dijkstra's original term for deadlock was "deadly embrace". It's a better name and we lost it.
+Nobody reaches for the debugger first. The ladder is always the same:
+
+```js
+log("here")
+log("here2")
+log("WHY")
+```
 
 
 ---
@@ -21,4 +27,4 @@ Dijkstra's original term for deadlock was "deadly embrace". It's a better name a
 ---
 
 ### 🗓️ Last Update
-- 2026-11-27T07:14:07+00:00  
+- 2026-11-28T06:46:44+00:00  
